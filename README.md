@@ -1,5 +1,22 @@
 # cloudFit
 A smart system that recommends suitable clothes based on real-time weather conditions like temperature, humidity, and rain, helping users stay comfortable and stylish.
+
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
+
 <!-- Banner -->
 <p align="center">
   <img src="https://img.shields.io/badge/👕-Smart%20Clothes%20Recommender-blueviolet?style=for-the-badge" alt="Project Banner" />
@@ -79,4 +96,5 @@ A smart system that recommends suitable clothes based on real-time weather condi
   <b>💡 "Style is a way to say who you are without having to speak."</b><br>
   This project makes sure your <b>style speaks with confidence, comfort & weather-smart fashion</b>.
 </p>
+
 

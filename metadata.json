@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Stylist",
+  "description": "Get personalized outfit recommendations based on your body type, style preferences, weather, and occasion. Visualize the outfits with AI-generated images.",
+  "requestFramePermissions": []
+}
